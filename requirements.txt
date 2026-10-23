@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+torch
+numpy
+pandas
+scikit-learn
+scipy
+TA-Lib>=0.6.3
